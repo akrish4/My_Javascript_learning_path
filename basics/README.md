@@ -2,7 +2,7 @@
 JavaScript (JS) is one of the most used programming languages. It was created by Brendan Eich in 1995, and it took him ten days. You read it right: JavaScript was really developed in just ten days!
 
 <center>
-<img src = "https://ucarecdn.com/541cca3b-6668-401c-9e88-ed9ed42a61a3/" > 
+<img src = "https://ucarecdn.com/541cca3b-6668-401c-9e88-ed9ed42a61a3/" > The JavaScript logo
 </center>
 
 
