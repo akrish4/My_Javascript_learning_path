@@ -3,7 +3,9 @@
 
 
 <img src = "https://ucarecdn.com/541cca3b-6668-401c-9e88-ed9ed42a61a3/" class="center" >
+
 `The JavaScript logo`
+
 
 - According to GitHub 2018, JS tops the list of the most popular programming languages. It is used for both front-end and back-end development.
 
