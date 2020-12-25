@@ -1,12 +1,14 @@
 # What is JavaScript?
-JavaScript (JS) is one of the most used programming languages. It was created by Brendan Eich in 1995, and it took him ten days. You read it right: JavaScript was really developed in just ten days!
+- JavaScript (JS) is one of the most used programming languages. It was created by Brendan Eich in 1995, and it took him ten days. You read it right: JavaScript was really developed in just ten days!
 
 
-<img src = "https://ucarecdn.com/541cca3b-6668-401c-9e88-ed9ed42a61a3/" class="center" > </img>
-
+<img src = "https://ucarecdn.com/541cca3b-6668-401c-9e88-ed9ed42a61a3/" class="center" >
 `The JavaScript logo`
 
-
+- According to GitHub 2018, JS tops the list of the most popular programming languages. It is used for both front-end and back-end development.
+```
+JavaScript is not Java. These are different programming languages. Their similar names were a marketing move to draw attention to the new language and take advantage of the popularity of Java.
+```
 
 # JavaScript Basics
  - This program displays the text "Hello from JavaScript!" in the console, a zone displaying textual information available in most JavaScript environments, such as browsers.
