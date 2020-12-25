@@ -4,7 +4,7 @@ JavaScript (JS) is one of the most used programming languages. It was created by
 
 <img align="center" src = "https://ucarecdn.com/541cca3b-6668-401c-9e88-ed9ed42a61a3/" > 
 
-The JavaScript logo
+`The JavaScript logo`
 
 
 
